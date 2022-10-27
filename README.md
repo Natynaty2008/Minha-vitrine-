@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Minha vitrine Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Mostrar meus conhecimentos e desenvolvimento utilizando a plataforma Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Meu primeiro projeto**
+| :label: Tecnologias | html,css,javascript
+| :rocket: URL         | https://scratch.mit.edu/users/Natynaty2008/
+| :fire: Desafio     | https://codepen.io/natynaty2008
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://images2.alphacoders.com/201/201992.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Colocando em pratica todos os meus ensinamentos em html e css com um pouquinho de javascript...
